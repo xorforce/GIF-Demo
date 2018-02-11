@@ -1,5 +1,9 @@
 # GIF-Demo
 
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/14857735/36078063-ff1ac472-0f97-11e8-9f4a-79a095974697.png">
+</p>
+
 A simple guide to use GIFs in an iOS Application 🕺.
 This repository is the code for a Medium Article I wrote for Swift Sundae 🍨. <br><br>
 To check out the step by step guide, follow this [link](https://medium.com/@bhagatsingh_36451/ultimate-guide-to-gifs-in-ios-f903ab69ddf6) <br><br>
@@ -15,8 +19,7 @@ Bhagat Singh <br>
 <li>Testing Firmware iOS 11.2 </li>
 <li>Xcode Version - v9.2 </li>
 </ul>
-<br><br>
-
+<br>
 
 License
 =======
